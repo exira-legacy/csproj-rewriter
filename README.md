@@ -1,7 +1,7 @@
 CsProjRewriter
 ===============
 
-Merging .csproj files is a hell, one that I had too face once to many when merging pull requests.
+Merging .csproj files is a hell, one that I had to face once too many when merging pull requests.
 
 So I quickly wrote something which rewrites .csproj files to have all items ordered alphabetically, making merging easier.
 
