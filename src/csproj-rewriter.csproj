@@ -8,7 +8,7 @@
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>CsProjRewriter</RootNamespace>
-    <AssemblyName>CsProjRewriter</AssemblyName>
+    <AssemblyName>csproj-rewriter</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -32,7 +32,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>cc.ico</ApplicationIcon>
+    <ApplicationIcon>exira.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>CsProjRewriter.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.Build" />
@@ -49,7 +52,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="cc.ico" />
+    <Content Include="exira.ico" />
     <Content Include="Test.csproj">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

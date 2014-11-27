@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.30723.0
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsProjRewriter", "src\CsProjRewriter.csproj", "{F136EC13-7A38-4A1F-AA1E-48E3EEDF7B09}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csproj-rewriter", "src\csproj-rewriter.csproj", "{F136EC13-7A38-4A1F-AA1E-48E3EEDF7B09}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

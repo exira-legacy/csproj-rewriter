@@ -1,15 +1,19 @@
-CsProjRewriter
+csproj-rewriter
 ===============
 
-Merging .csproj files is a hell, one that I had to face once too many when merging pull requests.
+Merging .csproj files is a hell, one that we had to face once too many when merging pull requests.
 
-So I quickly wrote something which rewrites .csproj files to have all items ordered alphabetically, making merging easier.
+So we quickly wrote something which rewrites .csproj files to have all items ordered alphabetically, making merging easier.
 
 If you can use it, enjoy!
 
+## Usage
+
+```csproj-rewriter <name of .csproj file>```
+
 ## Copyright
 
-Copyright © 2014 Cumps Consulting and contributors.
+Copyright © 2014 Cumps Consulting / Exira and contributors.
 
 ## License
 
