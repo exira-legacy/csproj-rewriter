@@ -1,12 +1,12 @@
 ﻿using System.Reflection;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("CsProjRewriter")]
+[assembly: AssemblyTitle("csproj-rewriter")]
 [assembly: AssemblyDescription("Rewrite .csproj files to make merging easier")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Cumps Consulting")]
-[assembly: AssemblyProduct("CsProjRewriter")]
-[assembly: AssemblyCopyright("Copyright © 2014 Cumps Consulting and contributors.")]
+[assembly: AssemblyCompany("Cumps Consulting / Exira")]
+[assembly: AssemblyProduct("csproj-rewriter")]
+[assembly: AssemblyCopyright("Copyright © 2014 Cumps Consulting / Exira and contributors.")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
