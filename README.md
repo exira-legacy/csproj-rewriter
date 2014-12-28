@@ -17,4 +17,4 @@ Copyright © 2014 Cumps Consulting / Exira and contributors.
 
 ## License
 
-CsProjRewriter is licensed under [BSD (3-Clause)](http://choosealicense.com/licenses/bsd-3-clause/ "Read more about the BSD (3-Clause) License"). Refer to [LICENSE](https://github.com/CumpsD/CsProjRewriter/blob/master/LICENSE) for more information.
+csproj-rewriter is licensed under [BSD (3-Clause)](http://choosealicense.com/licenses/bsd-3-clause/ "Read more about the BSD (3-Clause) License"). Refer to [LICENSE](https://github.com/exira/csproj-rewriter/blob/master/LICENSE) for more information.
