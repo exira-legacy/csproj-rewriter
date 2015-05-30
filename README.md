@@ -1,5 +1,4 @@
-csproj-rewriter
-===============
+# csproj-rewriter [![Travis build status](https://travis-ci.org/exira/csproj-rewriter.png)](https://travis-ci.org/exira/csproj-rewriter)
 
 Merging .csproj files is a hell, one that we had to face once too many when merging pull requests.
 
